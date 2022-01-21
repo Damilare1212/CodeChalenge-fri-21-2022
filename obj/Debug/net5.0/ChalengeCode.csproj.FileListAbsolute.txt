@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\ChalengeCode\bin\Debug\net5.0\ChalengeCode.exe
+C:\Users\USER\Desktop\ChalengeCode\bin\Debug\net5.0\ChalengeCode.deps.json
+C:\Users\USER\Desktop\ChalengeCode\bin\Debug\net5.0\ChalengeCode.runtimeconfig.json
+C:\Users\USER\Desktop\ChalengeCode\bin\Debug\net5.0\ChalengeCode.runtimeconfig.dev.json
+C:\Users\USER\Desktop\ChalengeCode\bin\Debug\net5.0\ChalengeCode.dll
+C:\Users\USER\Desktop\ChalengeCode\bin\Debug\net5.0\ref\ChalengeCode.dll
+C:\Users\USER\Desktop\ChalengeCode\bin\Debug\net5.0\ChalengeCode.pdb
+C:\Users\USER\Desktop\ChalengeCode\obj\Debug\net5.0\ChalengeCode.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\ChalengeCode\obj\Debug\net5.0\ChalengeCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\ChalengeCode\obj\Debug\net5.0\ChalengeCode.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\ChalengeCode\obj\Debug\net5.0\ChalengeCode.AssemblyInfo.cs
+C:\Users\USER\Desktop\ChalengeCode\obj\Debug\net5.0\ChalengeCode.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\ChalengeCode\obj\Debug\net5.0\ChalengeCode.dll
+C:\Users\USER\Desktop\ChalengeCode\obj\Debug\net5.0\ref\ChalengeCode.dll
+C:\Users\USER\Desktop\ChalengeCode\obj\Debug\net5.0\ChalengeCode.pdb
+C:\Users\USER\Desktop\ChalengeCode\obj\Debug\net5.0\ChalengeCode.genruntimeconfig.cache
